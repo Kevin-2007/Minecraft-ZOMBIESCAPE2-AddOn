@@ -1,0 +1,1577 @@
+{
+   "custom_wheel_content_0" : {
+      "controls" : [
+         {
+            "state_default" : {
+               "controls" : [
+                  {
+                     "background" : {
+                        "texture" : "textures/ui/weapon/state_default_bg",
+                        "type" : "image"
+                     }
+                  }
+               ],
+               "type" : "panel"
+            }
+         },
+         {
+            "state_0" : {
+               "controls" : [
+                  {
+                     "background" : {
+                        "texture" : "textures/ui/weapon/state_0_bg",
+                        "type" : "image"
+                     }
+                  }
+               ],
+               "type" : "panel"
+            }
+         },
+         {
+            "state_1" : {
+               "controls" : [
+                  {
+                     "background" : {
+                        "texture" : "textures/ui/weapon/state_1_bg",
+                        "type" : "image"
+                     }
+                  }
+               ],
+               "type" : "panel"
+            }
+         },
+         {
+            "state_2" : {
+               "controls" : [
+                  {
+                     "background" : {
+                        "texture" : "textures/ui/weapon/state_2_bg",
+                        "type" : "image"
+                     }
+                  }
+               ],
+               "type" : "panel"
+            }
+         },
+         {
+            "state_3" : {
+               "controls" : [
+                  {
+                     "background" : {
+                        "texture" : "textures/ui/weapon/state_3_bg",
+                        "type" : "image"
+                     }
+                  }
+               ],
+               "type" : "panel"
+            }
+         },
+         {
+            "state_4" : {
+               "controls" : [
+                  {
+                     "background" : {
+                        "texture" : "textures/ui/weapon/state_4_bg",
+                        "type" : "image"
+                     }
+                  }
+               ],
+               "type" : "panel"
+            }
+         },
+         {
+            "state_5" : {
+               "controls" : [
+                  {
+                     "background" : {
+                        "texture" : "textures/ui/weapon/state_5_bg",
+                        "type" : "image"
+                     }
+                  }
+               ],
+               "type" : "panel"
+            }
+         }
+      ],
+      "type" : "panel"
+   },
+   "custom_wheel_content_1" : {
+      "controls" : [
+         {
+            "state_default" : {
+               "controls" : [
+                  {
+                     "background" : {
+                        "texture" : "textures/ui/weapon/state_default_bg",
+                        "type" : "image"
+                     }
+                  }
+               ],
+               "type" : "panel"
+            }
+         },
+         {
+            "state_0" : {
+               "controls" : [
+                  {
+                     "background" : {
+                        "texture" : "textures/ui/weapon/state_0_bg",
+                        "type" : "image"
+                     }
+                  }
+               ],
+               "type" : "panel"
+            }
+         },
+         {
+            "state_1" : {
+               "controls" : [
+                  {
+                     "background" : {
+                        "texture" : "textures/ui/weapon/state_1_bg",
+                        "type" : "image"
+                     }
+                  }
+               ],
+               "type" : "panel"
+            }
+         },
+         {
+            "state_2" : {
+               "controls" : [
+                  {
+                     "background" : {
+                        "texture" : "textures/ui/weapon/state_2_bg",
+                        "type" : "image"
+                     }
+                  }
+               ],
+               "type" : "panel"
+            }
+         },
+         {
+            "state_3" : {
+               "controls" : [
+                  {
+                     "background" : {
+                        "texture" : "textures/ui/weapon/state_3_bg",
+                        "type" : "image"
+                     }
+                  }
+               ],
+               "type" : "panel"
+            }
+         },
+         {
+            "state_4" : {
+               "controls" : [
+                  {
+                     "background" : {
+                        "texture" : "textures/ui/weapon/state_4_bg",
+                        "type" : "image"
+                     }
+                  }
+               ],
+               "type" : "panel"
+            }
+         },
+         {
+            "state_5" : {
+               "controls" : [
+                  {
+                     "background" : {
+                        "texture" : "textures/ui/weapon/state_5_bg",
+                        "type" : "image"
+                     }
+                  }
+               ],
+               "type" : "panel"
+            }
+         },
+         {
+            "state_6" : {
+               "controls" : [
+                  {
+                     "background" : {
+                        "texture" : "textures/ui/weapon/state_6_bg",
+                        "type" : "image"
+                     }
+                  }
+               ],
+               "type" : "panel"
+            }
+         },
+         {
+            "state_7" : {
+               "controls" : [
+                  {
+                     "background" : {
+                        "texture" : "textures/ui/weapon/state_7_bg",
+                        "type" : "image"
+                     }
+                  }
+               ],
+               "type" : "panel"
+            }
+         },
+         {
+            "state_8" : {
+               "controls" : [
+                  {
+                     "background" : {
+                        "texture" : "textures/ui/weapon/state_8_bg",
+                        "type" : "image"
+                     }
+                  }
+               ],
+               "type" : "panel"
+            }
+         }
+      ],
+      "type" : "panel"
+   },
+   "custom_wheel_content_2" : {
+      "controls" : [
+         {
+            "state_default" : {
+               "controls" : [
+                  {
+                     "background" : {
+                        "texture" : "textures/ui/weapon/state_default_bg",
+                        "type" : "image"
+                     }
+                  }
+               ],
+               "type" : "panel"
+            }
+         },
+         {
+            "state_0" : {
+               "controls" : [
+                  {
+                     "background" : {
+                        "texture" : "textures/ui/weapon/state_0_bg",
+                        "type" : "image"
+                     }
+                  }
+               ],
+               "type" : "panel"
+            }
+         },
+         {
+            "state_1" : {
+               "controls" : [
+                  {
+                     "background" : {
+                        "texture" : "textures/ui/weapon/state_1_bg",
+                        "type" : "image"
+                     }
+                  }
+               ],
+               "type" : "panel"
+            }
+         },
+         {
+            "state_2" : {
+               "controls" : [
+                  {
+                     "background" : {
+                        "texture" : "textures/ui/weapon/state_2_bg",
+                        "type" : "image"
+                     }
+                  }
+               ],
+               "type" : "panel"
+            }
+         },
+         {
+            "state_3" : {
+               "controls" : [
+                  {
+                     "background" : {
+                        "texture" : "textures/ui/weapon/state_3_bg",
+                        "type" : "image"
+                     }
+                  }
+               ],
+               "type" : "panel"
+            }
+         },
+         {
+            "state_4" : {
+               "controls" : [
+                  {
+                     "background" : {
+                        "texture" : "textures/ui/weapon/state_4_bg",
+                        "type" : "image"
+                     }
+                  }
+               ],
+               "type" : "panel"
+            }
+         },
+         {
+            "state_5" : {
+               "controls" : [
+                  {
+                     "background" : {
+                        "texture" : "textures/ui/weapon/state_5_bg",
+                        "type" : "image"
+                     }
+                  }
+               ],
+               "type" : "panel"
+            }
+         },
+         {
+            "state_6" : {
+               "controls" : [
+                  {
+                     "background" : {
+                        "texture" : "textures/ui/weapon/state_6_bg",
+                        "type" : "image"
+                     }
+                  }
+               ],
+               "type" : "panel"
+            }
+         },
+         {
+            "state_7" : {
+               "controls" : [
+                  {
+                     "background" : {
+                        "texture" : "textures/ui/weapon/state_7_bg",
+                        "type" : "image"
+                     }
+                  }
+               ],
+               "type" : "panel"
+            }
+         },
+         {
+            "state_8" : {
+               "controls" : [
+                  {
+                     "background" : {
+                        "texture" : "textures/ui/weapon/state_8_bg",
+                        "type" : "image"
+                     }
+                  }
+               ],
+               "type" : "panel"
+            }
+         }
+      ],
+      "type" : "panel"
+   },
+   "custom_wheel_content_3" : {
+      "controls" : [
+         {
+            "state_default" : {
+               "controls" : [
+                  {
+                     "background" : {
+                        "texture" : "textures/ui/weapon/state_default_bg",
+                        "type" : "image"
+                     }
+                  }
+               ],
+               "type" : "panel"
+            }
+         },
+         {
+            "state_0" : {
+               "controls" : [
+                  {
+                     "background" : {
+                        "texture" : "textures/ui/weapon/state_0_bg",
+                        "type" : "image"
+                     }
+                  }
+               ],
+               "type" : "panel"
+            }
+         },
+         {
+            "state_1" : {
+               "controls" : [
+                  {
+                     "background" : {
+                        "texture" : "textures/ui/weapon/state_1_bg",
+                        "type" : "image"
+                     }
+                  }
+               ],
+               "type" : "panel"
+            }
+         },
+         {
+            "state_2" : {
+               "controls" : [
+                  {
+                     "background" : {
+                        "texture" : "textures/ui/weapon/state_2_bg",
+                        "type" : "image"
+                     }
+                  }
+               ],
+               "type" : "panel"
+            }
+         },
+         {
+            "state_3" : {
+               "controls" : [
+                  {
+                     "background" : {
+                        "texture" : "textures/ui/weapon/state_3_bg",
+                        "type" : "image"
+                     }
+                  }
+               ],
+               "type" : "panel"
+            }
+         },
+         {
+            "state_4" : {
+               "controls" : [
+                  {
+                     "background" : {
+                        "texture" : "textures/ui/weapon/state_4_bg",
+                        "type" : "image"
+                     }
+                  }
+               ],
+               "type" : "panel"
+            }
+         },
+         {
+            "state_5" : {
+               "controls" : [
+                  {
+                     "background" : {
+                        "texture" : "textures/ui/weapon/state_5_bg",
+                        "type" : "image"
+                     }
+                  }
+               ],
+               "type" : "panel"
+            }
+         },
+         {
+            "state_6" : {
+               "controls" : [
+                  {
+                     "background" : {
+                        "texture" : "textures/ui/weapon/state_6_bg",
+                        "type" : "image"
+                     }
+                  }
+               ],
+               "type" : "panel"
+            }
+         },
+         {
+            "state_7" : {
+               "controls" : [
+                  {
+                     "background" : {
+                        "texture" : "textures/ui/weapon/state_7_bg",
+                        "type" : "image"
+                     }
+                  }
+               ],
+               "type" : "panel"
+            }
+         },
+         {
+            "state_8" : {
+               "controls" : [
+                  {
+                     "background" : {
+                        "texture" : "textures/ui/weapon/state_8_bg",
+                        "type" : "image"
+                     }
+                  }
+               ],
+               "type" : "panel"
+            }
+         },
+         {
+            "state_9" : {
+               "controls" : [
+                  {
+                     "background" : {
+                        "texture" : "textures/ui/weapon/state_9_bg",
+                        "type" : "image"
+                     }
+                  }
+               ],
+               "type" : "panel"
+            }
+         },
+         {
+            "state_10" : {
+               "controls" : [
+                  {
+                     "background" : {
+                        "texture" : "textures/ui/weapon/state_10_bg",
+                        "type" : "image"
+                     }
+                  }
+               ],
+               "type" : "panel"
+            }
+         },
+         {
+            "state_11" : {
+               "controls" : [
+                  {
+                     "background" : {
+                        "texture" : "textures/ui/weapon/state_11_bg",
+                        "type" : "image"
+                     }
+                  }
+               ],
+               "type" : "panel"
+            }
+         }
+      ],
+      "type" : "panel"
+   },
+   "custom_wheel_content_4" : {
+      "controls" : [
+         {
+            "state_default" : {
+               "controls" : [
+                  {
+                     "background" : {
+                        "texture" : "textures/ui/weapon/state_default_bg",
+                        "type" : "image"
+                     }
+                  }
+               ],
+               "type" : "panel"
+            }
+         },
+         {
+            "state_0" : {
+               "controls" : [
+                  {
+                     "background" : {
+                        "texture" : "textures/ui/weapon/state_0_bg",
+                        "type" : "image"
+                     }
+                  }
+               ],
+               "type" : "panel"
+            }
+         },
+         {
+            "state_1" : {
+               "controls" : [
+                  {
+                     "background" : {
+                        "texture" : "textures/ui/weapon/state_1_bg",
+                        "type" : "image"
+                     }
+                  }
+               ],
+               "type" : "panel"
+            }
+         },
+         {
+            "state_2" : {
+               "controls" : [
+                  {
+                     "background" : {
+                        "texture" : "textures/ui/weapon/state_2_bg",
+                        "type" : "image"
+                     }
+                  }
+               ],
+               "type" : "panel"
+            }
+         },
+         {
+            "state_3" : {
+               "controls" : [
+                  {
+                     "background" : {
+                        "texture" : "textures/ui/weapon/state_3_bg",
+                        "type" : "image"
+                     }
+                  }
+               ],
+               "type" : "panel"
+            }
+         },
+         {
+            "state_4" : {
+               "controls" : [
+                  {
+                     "background" : {
+                        "texture" : "textures/ui/weapon/state_4_bg",
+                        "type" : "image"
+                     }
+                  }
+               ],
+               "type" : "panel"
+            }
+         },
+         {
+            "state_5" : {
+               "controls" : [
+                  {
+                     "background" : {
+                        "texture" : "textures/ui/weapon/state_5_bg",
+                        "type" : "image"
+                     }
+                  }
+               ],
+               "type" : "panel"
+            }
+         },
+         {
+            "state_6" : {
+               "controls" : [
+                  {
+                     "background" : {
+                        "texture" : "textures/ui/weapon/state_6_bg",
+                        "type" : "image"
+                     }
+                  }
+               ],
+               "type" : "panel"
+            }
+         },
+         {
+            "state_7" : {
+               "controls" : [
+                  {
+                     "background" : {
+                        "texture" : "textures/ui/weapon/state_7_bg",
+                        "type" : "image"
+                     }
+                  }
+               ],
+               "type" : "panel"
+            }
+         }
+      ],
+      "type" : "panel"
+   },
+   "main" : {
+      "controls" : [
+         {
+            "underPanel" : {
+               "controls" : [
+                  {
+                     "health_bar" : {
+                        "$clip_direction" : "left",
+                        "$clip_ratio" : 0.30,
+                        "$is_new_nine_slice" : false,
+                        "$nine_slice_buttom" : 0,
+                        "$nine_slice_left" : 0,
+                        "$nine_slice_right" : 0,
+                        "$nine_slice_top" : 0,
+                        "$nineslice_size" : [ 0, 0, 0, 0 ],
+                        "$progress_bar_empty_texture" : "textures/ui/empty_progress_bar",
+                        "$progress_bar_filled_texture" : "textures/ui/filled_progress_bar",
+                        "alpha" : 0.70,
+                        "anchor_from" : "left_middle",
+                        "anchor_to" : "bottom_right",
+                        "controls" : [
+                           {
+                              "empty_progress_bar@netease_editor_template_namespace.empty_progress_bar" : {
+                                 "color" : [ 1.0, 1.0, 1.0 ],
+                                 "grayscale" : true
+                              }
+                           },
+                           {
+                              "filled_progress_bar@netease_editor_template_namespace.filled_progress_bar" : {
+                                 "color" : [ 1.0, 0.0, 0.0 ]
+                              }
+                           },
+                           {
+                              "progressLabel" : {
+                                 "font_type" : "default",
+                                 "layer" : 3,
+                                 "shadow" : true,
+                                 "text" : "700/1000",
+                                 "text_alignment" : "center",
+                                 "type" : "label"
+                              }
+                           }
+                        ],
+                        "layer" : 1,
+                        "offset" : [ "20.0%+0.0px", 0.0 ],
+                        "size" : [ "45.0%+130.0px", 10 ],
+                        "type" : "panel"
+                     }
+                  },
+                  {
+                     "energy_bar" : {
+                        "$clip_direction" : "left",
+                        "$clip_ratio" : 0.0,
+                        "$is_new_nine_slice" : false,
+                        "$nine_slice_buttom" : 0,
+                        "$nine_slice_left" : 0,
+                        "$nine_slice_right" : 0,
+                        "$nine_slice_top" : 0,
+                        "$nineslice_size" : [ 0, 0, 0, 0 ],
+                        "$progress_bar_empty_texture" : "textures/ui/empty_progress_bar",
+                        "$progress_bar_filled_texture" : "textures/ui/filled_progress_bar",
+                        "alpha" : 0.70,
+                        "anchor_from" : "left_middle",
+                        "anchor_to" : "top_right",
+                        "controls" : [
+                           {
+                              "empty_progress_bar@netease_editor_template_namespace.empty_progress_bar" : {}
+                           },
+                           {
+                              "filled_progress_bar@netease_editor_template_namespace.filled_progress_bar" : {
+                                 "color" : [ 0.0, 1.0, 1.0 ]
+                              }
+                           },
+                           {
+                              "progressLabel" : {
+                                 "font_type" : "default",
+                                 "layer" : 3,
+                                 "shadow" : true,
+                                 "text" : "1000/1000",
+                                 "text_alignment" : "center",
+                                 "type" : "label"
+                              }
+                           }
+                        ],
+                        "layer" : 5,
+                        "offset" : [ "20.0%+0.0px", "5.0%+0.0px" ],
+                        "size" : [ "45.0%+130.0px", 10 ],
+                        "type" : "panel"
+                     }
+                  },
+                  {
+                     "Inventory@common.button" : {
+                        "$control_alpha" : 1.0,
+                        "$default_texture" : "textures/netease/common/button/default",
+                        "$hover_texture" : "textures/netease/common/button/hover",
+                        "$is_new_nine_slice" : true,
+                        "$label_color" : [ 0.2627450980392157, 0.2627450980392157, 0.2627450980392157 ],
+                        "$label_font_scale_factor" : 1.20,
+                        "$label_font_size" : "large",
+                        "$label_layer" : 3,
+                        "$label_offset" : [ 0, 0 ],
+                        "$label_text" : "背包",
+                        "$nine_slice_buttom" : 1,
+                        "$nine_slice_left" : 1,
+                        "$nine_slice_right" : 1,
+                        "$nine_slice_top" : 1,
+                        "$nineslice_size" : [ 0, 0, 0, 0 ],
+                        "$pressed_button_name" : "%netease_editor_template_namespace.click",
+                        "$pressed_texture" : "textures/netease/common/button/pressed",
+                        "$texture_layer" : 2,
+                        "bindings" : [
+                           {
+                              "binding_collection_name" : "",
+                              "binding_condition" : "always_when_visible",
+                              "binding_type" : "collection_details"
+                           }
+                        ],
+                        "button_mappings" : [],
+                        "controls" : [
+                           {
+                              "default@netease_editor_template_namespace.default" : {}
+                           },
+                           {
+                              "hover@netease_editor_template_namespace.hover" : {}
+                           },
+                           {
+                              "pressed@netease_editor_template_namespace.pressed" : {}
+                           },
+                           {
+                              "button_label@netease_editor_template_namespace.button_label" : {}
+                           }
+                        ],
+                        "default_control" : "default",
+                        "hover_control" : "hover",
+                        "is_handle_button_move_event" : true,
+                        "layer" : 9,
+                        "pressed_control" : "pressed",
+                        "size" : [ 50.0, 50 ],
+                        "type" : "button"
+                     }
+                  }
+               ],
+               "layer" : 1,
+               "offset" : [ "5.0%+10.0px", "35.0%+5.0px" ],
+               "size" : [ 100, 100 ],
+               "type" : "panel"
+            }
+         },
+         {
+            "controlPanel" : {
+               "controls" : [
+                  {
+                     "abilityA@common.button" : {
+                        "$control_alpha" : 1.0,
+                        "$default_texture" : "textures/items/apple_golden",
+                        "$hover_texture" : "textures/items/apple_golden",
+                        "$is_new_nine_slice" : false,
+                        "$label_color" : [ 0.5607843137254902, 0.5607843137254902, 0.5607843137254902 ],
+                        "$label_font_scale_factor" : 1.70,
+                        "$label_font_size" : "large",
+                        "$label_layer" : 3,
+                        "$label_offset" : [ 0.0, 7.0 ],
+                        "$label_text" : "A",
+                        "$nine_slice_buttom" : 0,
+                        "$nine_slice_left" : 0,
+                        "$nine_slice_right" : 0,
+                        "$nine_slice_top" : 0,
+                        "$nineslice_size" : [ 0, 0, 0, 0 ],
+                        "$pressed_button_name" : "%netease_editor_template_namespace.click",
+                        "$pressed_texture" : "textures/items/apple_golden",
+                        "$texture_layer" : 2,
+                        "anchor_from" : "top_right",
+                        "bindings" : [
+                           {
+                              "binding_collection_name" : "",
+                              "binding_condition" : "always_when_visible",
+                              "binding_type" : "collection_details"
+                           }
+                        ],
+                        "button_mappings" : [],
+                        "controls" : [
+                           {
+                              "default@netease_editor_template_namespace.default" : {}
+                           },
+                           {
+                              "hover@netease_editor_template_namespace.hover" : {}
+                           },
+                           {
+                              "pressed@netease_editor_template_namespace.pressed" : {}
+                           },
+                           {
+                              "button_label@netease_editor_template_namespace.button_label" : {}
+                           },
+                           {
+                              "cdImg" : {
+                                 "alpha" : 0.410,
+                                 "clip_direction" : "down",
+                                 "clip_ratio" : 0.0,
+                                 "color" : [ 0.0, 0.0, 0.0 ],
+                                 "grayscale" : true,
+                                 "layer" : 10,
+                                 "texture" : "textures/netease/common/image/default",
+                                 "type" : "image",
+                                 "uv" : [ 0.0, 0.0 ]
+                              }
+                           }
+                        ],
+                        "default_control" : "default",
+                        "hover_control" : "hover",
+                        "is_handle_button_move_event" : true,
+                        "offset" : [ 0.0, "37.0%+0.0px" ],
+                        "pressed_control" : "pressed",
+                        "size" : [ "20.0%+10.0px", "100.0%x+0.0px" ],
+                        "type" : "button"
+                     }
+                  },
+                  {
+                     "abilityB@common.button" : {
+                        "$control_alpha" : 1.0,
+                        "$default_texture" : "textures/items/apple_golden",
+                        "$hover_texture" : "textures/items/apple_golden",
+                        "$is_new_nine_slice" : false,
+                        "$label_color" : [ 0.5607843137254902, 0.5607843137254902, 0.5607843137254902 ],
+                        "$label_font_scale_factor" : 1.70,
+                        "$label_font_size" : "large",
+                        "$label_layer" : 3,
+                        "$label_offset" : [ 0.0, 7.0 ],
+                        "$label_text" : "B",
+                        "$nine_slice_buttom" : 0,
+                        "$nine_slice_left" : 0,
+                        "$nine_slice_right" : 0,
+                        "$nine_slice_top" : 0,
+                        "$nineslice_size" : [ 0, 0, 0, 0 ],
+                        "$pressed_button_name" : "%netease_editor_template_namespace.click",
+                        "$pressed_texture" : "textures/items/apple_golden",
+                        "$texture_layer" : 2,
+                        "anchor_from" : "top_middle",
+                        "anchor_to" : "top_middle",
+                        "bindings" : [
+                           {
+                              "binding_collection_name" : "",
+                              "binding_condition" : "always_when_visible",
+                              "binding_type" : "collection_details"
+                           }
+                        ],
+                        "button_mappings" : [],
+                        "controls" : [
+                           {
+                              "default@netease_editor_template_namespace.default" : {}
+                           },
+                           {
+                              "hover@netease_editor_template_namespace.hover" : {}
+                           },
+                           {
+                              "pressed@netease_editor_template_namespace.pressed" : {}
+                           },
+                           {
+                              "button_label@netease_editor_template_namespace.button_label" : {}
+                           },
+                           {
+                              "cdImg" : {
+                                 "alpha" : 0.410,
+                                 "clip_direction" : "down",
+                                 "clip_ratio" : 0.580,
+                                 "color" : [ 0.0, 0.0, 0.0 ],
+                                 "grayscale" : true,
+                                 "layer" : 10,
+                                 "texture" : "textures/netease/common/image/default",
+                                 "type" : "image"
+                              }
+                           }
+                        ],
+                        "default_control" : "default",
+                        "hover_control" : "hover",
+                        "is_handle_button_move_event" : true,
+                        "layer" : 12,
+                        "offset" : [ "18.0%+0.0px", "41.0%+0.0px" ],
+                        "pressed_control" : "pressed",
+                        "size" : [ "20.0%+10.0px", "100.0%x+0.0px" ],
+                        "type" : "button"
+                     }
+                  },
+                  {
+                     "abilityC@common.button" : {
+                        "$control_alpha" : 1.0,
+                        "$default_texture" : "textures/items/apple_golden",
+                        "$hover_texture" : "textures/items/apple_golden",
+                        "$is_new_nine_slice" : false,
+                        "$label_color" : [ 0.5607843137254902, 0.5607843137254902, 0.5607843137254902 ],
+                        "$label_font_scale_factor" : 1.70,
+                        "$label_font_size" : "large",
+                        "$label_layer" : 3,
+                        "$label_offset" : [ 0.0, 7.0 ],
+                        "$label_text" : "C",
+                        "$nine_slice_buttom" : 0,
+                        "$nine_slice_left" : 0,
+                        "$nine_slice_right" : 0,
+                        "$nine_slice_top" : 0,
+                        "$nineslice_size" : [ 0, 0, 0, 0 ],
+                        "$pressed_button_name" : "%netease_editor_template_namespace.click",
+                        "$pressed_texture" : "textures/items/apple_golden",
+                        "$texture_layer" : 2,
+                        "anchor_from" : "left_middle",
+                        "anchor_to" : "left_middle",
+                        "bindings" : [
+                           {
+                              "binding_collection_name" : "",
+                              "binding_condition" : "always_when_visible",
+                              "binding_type" : "collection_details"
+                           }
+                        ],
+                        "button_mappings" : [],
+                        "controls" : [
+                           {
+                              "default@netease_editor_template_namespace.default" : {}
+                           },
+                           {
+                              "hover@netease_editor_template_namespace.hover" : {}
+                           },
+                           {
+                              "pressed@netease_editor_template_namespace.pressed" : {}
+                           },
+                           {
+                              "button_label@netease_editor_template_namespace.button_label" : {}
+                           },
+                           {
+                              "cdImg" : {
+                                 "alpha" : 0.410,
+                                 "clip_direction" : "down",
+                                 "clip_ratio" : 0.510,
+                                 "color" : [ 0.0, 0.0, 0.0 ],
+                                 "grayscale" : true,
+                                 "layer" : 10,
+                                 "texture" : "textures/netease/common/image/default",
+                                 "type" : "image"
+                              }
+                           }
+                        ],
+                        "default_control" : "default",
+                        "hover_control" : "hover",
+                        "is_handle_button_move_event" : true,
+                        "layer" : 23,
+                        "offset" : [ "35.0%+0.0px", "34.0%+0.0px" ],
+                        "pressed_control" : "pressed",
+                        "size" : [ "20.0%+10.0px", "100.0%x+0.0px" ],
+                        "type" : "button"
+                     }
+                  },
+                  {
+                     "attack@common.button" : {
+                        "$control_alpha" : 1.0,
+                        "$default_texture" : "textures/items/diamond_sword",
+                        "$hover_texture" : "textures/items/diamond_sword",
+                        "$is_new_nine_slice" : false,
+                        "$label_color" : [ 1, 1, 1 ],
+                        "$label_font_scale_factor" : 0.7999999999999999,
+                        "$label_font_size" : "large",
+                        "$label_layer" : 3,
+                        "$label_offset" : [ 0, 0 ],
+                        "$label_text" : "Attack",
+                        "$nine_slice_buttom" : 0,
+                        "$nine_slice_left" : 0,
+                        "$nine_slice_right" : 0,
+                        "$nine_slice_top" : 0,
+                        "$nineslice_size" : [ 0, 0, 0, 0 ],
+                        "$pressed_button_name" : "%netease_editor_template_namespace.click",
+                        "$pressed_texture" : "textures/items/diamond_sword",
+                        "$texture_layer" : 2,
+                        "anchor_from" : "bottom_right",
+                        "anchor_to" : "bottom_middle",
+                        "bindings" : [
+                           {
+                              "binding_collection_name" : "",
+                              "binding_condition" : "always_when_visible",
+                              "binding_type" : "collection_details"
+                           }
+                        ],
+                        "button_mappings" : [],
+                        "controls" : [
+                           {
+                              "default@netease_editor_template_namespace.default" : {}
+                           },
+                           {
+                              "hover@netease_editor_template_namespace.hover" : {}
+                           },
+                           {
+                              "pressed@netease_editor_template_namespace.pressed" : {}
+                           },
+                           {
+                              "button_label@netease_editor_template_namespace.button_label" : {}
+                           },
+                           {
+                              "cdImg" : {
+                                 "alpha" : 0.410,
+                                 "clip_direction" : "down",
+                                 "clip_ratio" : 0.250,
+                                 "color" : [ 0.0, 0.0, 0.0 ],
+                                 "grayscale" : true,
+                                 "layer" : 10,
+                                 "texture" : "textures/netease/common/image/default",
+                                 "type" : "image"
+                              }
+                           }
+                        ],
+                        "default_control" : "default",
+                        "hover_control" : "hover",
+                        "is_handle_button_move_event" : true,
+                        "layer" : 34,
+                        "pressed_control" : "pressed",
+                        "size" : [ "30.0%+15.0px", "100.0%x+0.0px" ],
+                        "type" : "button"
+                     }
+                  },
+                  {
+                     "lie@common.button" : {
+                        "$control_alpha" : 1.0,
+                        "$default_texture" : "textures/items/apple_golden",
+                        "$hover_texture" : "textures/items/apple_golden",
+                        "$is_new_nine_slice" : false,
+                        "$label_color" : [ 0.5607843137254902, 0.5607843137254902, 0.5607843137254902 ],
+                        "$label_font_scale_factor" : 1.70,
+                        "$label_font_size" : "large",
+                        "$label_layer" : 3,
+                        "$label_offset" : [ 0.0, 7.0 ],
+                        "$label_text" : "L",
+                        "$nine_slice_buttom" : 0,
+                        "$nine_slice_left" : 0,
+                        "$nine_slice_right" : 0,
+                        "$nine_slice_top" : 0,
+                        "$nineslice_size" : [ 0, 0, 0, 0 ],
+                        "$pressed_button_name" : "%netease_editor_template_namespace.click",
+                        "$pressed_texture" : "textures/items/apple_golden",
+                        "$texture_layer" : 2,
+                        "anchor_from" : "bottom_middle",
+                        "anchor_to" : "bottom_left",
+                        "bindings" : [
+                           {
+                              "binding_collection_name" : "",
+                              "binding_condition" : "always_when_visible",
+                              "binding_type" : "collection_details"
+                           }
+                        ],
+                        "button_mappings" : [],
+                        "controls" : [
+                           {
+                              "default@netease_editor_template_namespace.default" : {}
+                           },
+                           {
+                              "hover@netease_editor_template_namespace.hover" : {}
+                           },
+                           {
+                              "pressed@netease_editor_template_namespace.pressed" : {}
+                           },
+                           {
+                              "button_label@netease_editor_template_namespace.button_label" : {}
+                           }
+                        ],
+                        "default_control" : "default",
+                        "hover_control" : "hover",
+                        "is_handle_button_move_event" : true,
+                        "layer" : 45,
+                        "offset" : [ "69.0%+0.0px", "23.0%+0.0px" ],
+                        "pressed_control" : "pressed",
+                        "size" : [ "20.0%+10.0px", "20.0%+10.0px" ],
+                        "type" : "button"
+                     }
+                  },
+                  {
+                     "sneak@common.button" : {
+                        "$control_alpha" : 1.0,
+                        "$default_texture" : "textures/items/apple_golden",
+                        "$hover_texture" : "textures/items/apple_golden",
+                        "$is_new_nine_slice" : false,
+                        "$label_color" : [ 0.5607843137254902, 0.5607843137254902, 0.5607843137254902 ],
+                        "$label_font_scale_factor" : 1.70,
+                        "$label_font_size" : "large",
+                        "$label_layer" : 3,
+                        "$label_offset" : [ 0.0, 7.0 ],
+                        "$label_text" : "S",
+                        "$nine_slice_buttom" : 0,
+                        "$nine_slice_left" : 0,
+                        "$nine_slice_right" : 0,
+                        "$nine_slice_top" : 0,
+                        "$nineslice_size" : [ 0, 0, 0, 0 ],
+                        "$pressed_button_name" : "%netease_editor_template_namespace.click",
+                        "$pressed_texture" : "textures/items/apple_golden",
+                        "$texture_layer" : 2,
+                        "anchor_from" : "right_middle",
+                        "anchor_to" : "top_left",
+                        "bindings" : [
+                           {
+                              "binding_collection_name" : "",
+                              "binding_condition" : "always_when_visible",
+                              "binding_type" : "collection_details"
+                           }
+                        ],
+                        "button_mappings" : [],
+                        "controls" : [
+                           {
+                              "default@netease_editor_template_namespace.default" : {}
+                           },
+                           {
+                              "hover@netease_editor_template_namespace.hover" : {}
+                           },
+                           {
+                              "pressed@netease_editor_template_namespace.pressed" : {}
+                           },
+                           {
+                              "button_label@netease_editor_template_namespace.button_label" : {}
+                           }
+                        ],
+                        "default_control" : "default",
+                        "hover_control" : "hover",
+                        "is_handle_button_move_event" : true,
+                        "layer" : 55,
+                        "offset" : [ "33.0%+0.0px", "17.0%+0.0px" ],
+                        "pressed_control" : "pressed",
+                        "size" : [ "20.0%+10.0px", "20.0%+10.0px" ],
+                        "type" : "button"
+                     }
+                  },
+                  {
+                     "jump@common.button" : {
+                        "$control_alpha" : 1.0,
+                        "$default_texture" : "textures/items/apple_golden",
+                        "$hover_texture" : "textures/items/apple_golden",
+                        "$is_new_nine_slice" : false,
+                        "$label_color" : [ 0.5607843137254902, 0.5607843137254902, 0.5607843137254902 ],
+                        "$label_font_scale_factor" : 1.70,
+                        "$label_font_size" : "large",
+                        "$label_layer" : 3,
+                        "$label_offset" : [ 0.0, 7.0 ],
+                        "$label_text" : "J",
+                        "$nine_slice_buttom" : 0,
+                        "$nine_slice_left" : 0,
+                        "$nine_slice_right" : 0,
+                        "$nine_slice_top" : 0,
+                        "$nineslice_size" : [ 0, 0, 0, 0 ],
+                        "$pressed_button_name" : "%netease_editor_template_namespace.click",
+                        "$pressed_texture" : "textures/items/apple_golden",
+                        "$texture_layer" : 2,
+                        "anchor_from" : "right_middle",
+                        "anchor_to" : "bottom_left",
+                        "bindings" : [
+                           {
+                              "binding_collection_name" : "",
+                              "binding_condition" : "always_when_visible",
+                              "binding_type" : "collection_details"
+                           }
+                        ],
+                        "button_mappings" : [],
+                        "controls" : [
+                           {
+                              "default@netease_editor_template_namespace.default" : {}
+                           },
+                           {
+                              "hover@netease_editor_template_namespace.hover" : {}
+                           },
+                           {
+                              "pressed@netease_editor_template_namespace.pressed" : {}
+                           },
+                           {
+                              "button_label@netease_editor_template_namespace.button_label" : {}
+                           }
+                        ],
+                        "default_control" : "default",
+                        "hover_control" : "hover",
+                        "is_handle_button_move_event" : true,
+                        "layer" : 65,
+                        "offset" : [ "30.0%+0.0px", "15.0%+0.0px" ],
+                        "pressed_control" : "pressed",
+                        "size" : [ "20.0%+10.0px", "20.0%+10.0px" ],
+                        "type" : "button"
+                     }
+                  }
+               ],
+               "layer" : 20,
+               "offset" : [ "19.0%+0.0px", "14.0%+0.0px" ],
+               "size" : [ "25.0%+10.0px", "100.0%x+0.0px" ],
+               "type" : "panel"
+            }
+         },
+         {
+            "topPanel" : {
+               "anchor_from" : "top_middle",
+               "anchor_to" : "top_middle",
+               "controls" : [
+                  {
+                     "backImg" : {
+                        "alpha" : 0.250,
+                        "anchor_from" : "bottom_middle",
+                        "anchor_to" : "bottom_middle",
+                        "clip_direction" : "left",
+                        "clip_ratio" : 0.0,
+                        "color" : [ 0.0, 0.0, 0.0 ],
+                        "controls" : [
+                           {
+                              "directionLabel" : {
+                                 "anchor_from" : "bottom_middle",
+                                 "anchor_to" : "bottom_middle",
+                                 "controls" : [],
+                                 "font_type" : "default",
+                                 "layer" : 1,
+                                 "shadow" : true,
+                                 "text" : "| | | 330 | | | | | 340 | | | | | 350 | | | | | 0 | | | | | 10 | | | | | 20 | | | | | 30 | | |",
+                                 "text_alignment" : "center",
+                                 "type" : "label"
+                              }
+                           }
+                        ],
+                        "fill" : true,
+                        "grayscale" : true,
+                        "layer" : 1,
+                        "size" : [ "100.0%c+0.0px", "100.0%c+0.0px" ],
+                        "texture" : "textures/netease/common/image/default",
+                        "type" : "image"
+                     }
+                  },
+                  {
+                     "progress_bar" : {
+                        "$clip_direction" : "left",
+                        "$clip_ratio" : 0.220,
+                        "$is_new_nine_slice" : false,
+                        "$nine_slice_buttom" : 0,
+                        "$nine_slice_left" : 0,
+                        "$nine_slice_right" : 0,
+                        "$nine_slice_top" : 0,
+                        "$nineslice_size" : [ 0, 0, 0, 0 ],
+                        "$progress_bar_empty_texture" : "textures/ui/empty_progress_bar",
+                        "$progress_bar_filled_texture" : "textures/ui/filled_progress_bar",
+                        "anchor_from" : "bottom_middle",
+                        "anchor_to" : "top_middle",
+                        "controls" : [
+                           {
+                              "empty_progress_bar@netease_editor_template_namespace.empty_progress_bar" : {}
+                           },
+                           {
+                              "filled_progress_bar@netease_editor_template_namespace.filled_progress_bar" : {
+                                 "color" : [ 0.6666666666666666, 1.0, 0.0 ]
+                              }
+                           }
+                        ],
+                        "layer" : 3,
+                        "offset" : [ 0.0, 2.0 ],
+                        "size" : [ "60.0%+0.0px", 10 ],
+                        "type" : "panel"
+                     }
+                  },
+                  {
+                     "timeLabel" : {
+                        "anchor_from" : "bottom_middle",
+                        "anchor_to" : "top_middle",
+                        "controls" : [],
+                        "font_type" : "default",
+                        "layer" : 6,
+                        "offset" : [ 0.0, 14.0 ],
+                        "shadow" : true,
+                        "text" : "1:14:51",
+                        "text_alignment" : "center",
+                        "type" : "label"
+                     }
+                  },
+                  {
+                     "backImgNum" : {
+                        "alpha" : 0.250,
+                        "anchor_to" : "bottom_middle",
+                        "clip_direction" : "left",
+                        "clip_ratio" : 0.0,
+                        "color" : [ 0.0, 0.0, 0.0 ],
+                        "controls" : [
+                           {
+                              "zombieNum" : {
+                                 "color" : [ 1.0, 0.0, 0.0 ],
+                                 "font_type" : "default",
+                                 "layer" : 1,
+                                 "offset" : [ 10.0, 0.0 ],
+                                 "shadow" : true,
+                                 "text" : "6",
+                                 "text_alignment" : "center",
+                                 "type" : "label"
+                              }
+                           },
+                           {
+                              "surviveNum" : {
+                                 "color" : [ 0.3333333333333333, 1.0, 0.0 ],
+                                 "controls" : [],
+                                 "font_type" : "default",
+                                 "layer" : 2,
+                                 "offset" : [ -10.0, 0.0 ],
+                                 "shadow" : true,
+                                 "text" : "8",
+                                 "text_alignment" : "center",
+                                 "type" : "label"
+                              }
+                           },
+                           {
+                              "middle" : {
+                                 "font_type" : "default",
+                                 "layer" : 3,
+                                 "shadow" : true,
+                                 "text" : ":",
+                                 "text_alignment" : "center",
+                                 "type" : "label"
+                              }
+                           }
+                        ],
+                        "fill" : true,
+                        "grayscale" : true,
+                        "layer" : 7,
+                        "size" : [ "300.0%c+0.0px", "33.33%c+0.0px" ],
+                        "texture" : "textures/netease/common/image/default",
+                        "type" : "image"
+                     }
+                  },
+                  {
+                     "setting@common.button" : {
+                        "$control_alpha" : 1.0,
+                        "$default_texture" : "textures/netease/common/button/default",
+                        "$hover_texture" : "textures/netease/common/button/hover",
+                        "$is_new_nine_slice" : true,
+                        "$label_color" : [ 0.3450980392156863, 0.3450980392156863, 0.3450980392156863 ],
+                        "$label_font_scale_factor" : 1.0,
+                        "$label_font_size" : "large",
+                        "$label_layer" : 3,
+                        "$label_offset" : [ 0, 0 ],
+                        "$label_text" : "设置",
+                        "$nine_slice_buttom" : 0,
+                        "$nine_slice_left" : 0,
+                        "$nine_slice_right" : 0,
+                        "$nine_slice_top" : 0,
+                        "$nineslice_size" : [ 0, 0, 0, 0 ],
+                        "$pressed_button_name" : "%netease_editor_template_namespace.click",
+                        "$pressed_texture" : "textures/netease/common/button/pressed",
+                        "$texture_layer" : 2,
+                        "anchor_from" : "left_middle",
+                        "anchor_to" : "top_left",
+                        "bindings" : [
+                           {
+                              "binding_collection_name" : "",
+                              "binding_condition" : "always_when_visible",
+                              "binding_type" : "collection_details"
+                           }
+                        ],
+                        "button_mappings" : [],
+                        "controls" : [
+                           {
+                              "default@netease_editor_template_namespace.default" : {}
+                           },
+                           {
+                              "hover@netease_editor_template_namespace.hover" : {}
+                           },
+                           {
+                              "pressed@netease_editor_template_namespace.pressed" : {}
+                           },
+                           {
+                              "button_label@netease_editor_template_namespace.button_label" : {}
+                           }
+                        ],
+                        "default_control" : "default",
+                        "hover_control" : "hover",
+                        "is_handle_button_move_event" : true,
+                        "layer" : 11,
+                        "pressed_control" : "pressed",
+                        "size" : [ "5.0%+20.0px", "100.0%x+0.0px" ],
+                        "type" : "button"
+                     }
+                  }
+               ],
+               "layer" : 95,
+               "size" : [ "default", "10.0%+0.0px" ],
+               "type" : "panel"
+            }
+         },
+         {
+            "middlePanel" : {
+               "controls" : [
+                  {
+                     "selection_wheel@common_selection_wheels.base_selection_wheel" : {
+                        "$content" : "playingGUIScreen.custom_wheel_content_4",
+                        "initial_button_slice" : -1,
+                        "inner_radius" : 3.0,
+                        "outer_radius" : 5.0,
+                        "size" : [ "70.0%+0.0px", "70.0%+0.0px" ],
+                        "slice_count" : 8,
+                        "state_controls" : [
+                           "state_default",
+                           "state_0",
+                           "state_1",
+                           "state_2",
+                           "state_3",
+                           "state_4",
+                           "state_5",
+                           "state_6",
+                           "state_7"
+                        ]
+                     }
+                  },
+                  {
+                     "weaponButton(0)@playingGUIScreen.weaponButton" : {
+                        "$abilityIcon" : "textures/items/bed_gray",
+                        "layer" : 2,
+                        "offset" : [ "-20.0%+0.0px", "-21.0%+0.0px" ],
+                        "size" : [ "10.0%+0.0px", "10.0%+0.0px" ]
+                     }
+                  },
+                  {
+                     "weaponButton(1)@playingGUIScreen.weaponButton" : {
+                        "$abilityIcon" : "textures/items/bed_gray",
+                        "layer" : 5,
+                        "offset" : [ "0.0%+0.0px", "-28.0%+0.0px" ],
+                        "size" : [ "10.0%+0.0px", "10.0%+0.0px" ]
+                     }
+                  },
+                  {
+                     "weaponButton(2)@playingGUIScreen.weaponButton" : {
+                        "$abilityIcon" : "textures/items/bed_gray",
+                        "layer" : 8,
+                        "offset" : [ "20.0%+0.0px", "-20.0%+0.0px" ],
+                        "size" : [ "10.0%+0.0px", "10.0%+0.0px" ]
+                     }
+                  },
+                  {
+                     "weaponButton(3)@playingGUIScreen.weaponButton" : {
+                        "$abilityIcon" : "textures/items/bed_gray",
+                        "layer" : 11,
+                        "offset" : [ "28.0%+0.0px", "0.0%+0.0px" ],
+                        "size" : [ "10.0%+0.0px", "10.0%+0.0px" ]
+                     }
+                  },
+                  {
+                     "weaponButton(4)@playingGUIScreen.weaponButton" : {
+                        "$abilityIcon" : "textures/items/bed_gray",
+                        "layer" : 14,
+                        "offset" : [ "20.0%+0.0px", "20.0%+0.0px" ],
+                        "size" : [ "10.0%+0.0px", "10.0%+0.0px" ]
+                     }
+                  },
+                  {
+                     "weaponButton(5)@playingGUIScreen.weaponButton" : {
+                        "$abilityIcon" : "textures/items/bed_gray",
+                        "layer" : 17,
+                        "offset" : [ "0.0%+0.0px", "28.0%+0.0px" ],
+                        "size" : [ "10.0%+0.0px", "10.0%+0.0px" ]
+                     }
+                  },
+                  {
+                     "weaponButton(6)@playingGUIScreen.weaponButton" : {
+                        "$abilityIcon" : "textures/items/bed_gray",
+                        "layer" : 20,
+                        "offset" : [ "-21.0%+0.0px", "19.0%+0.0px" ],
+                        "size" : [ "10.0%+0.0px", "10.0%+0.0px" ]
+                     }
+                  },
+                  {
+                     "weaponButton(7)@playingGUIScreen.weaponButton" : {
+                        "$abilityIcon" : "textures/items/bed_gray",
+                        "layer" : 23,
+                        "offset" : [ "-28.0%+0.0px", "0.0%+0.0px" ],
+                        "size" : [ "10.0%+0.0px", "10.0%+0.0px" ]
+                     }
+                  }
+               ],
+               "layer" : 116,
+               "size" : [ "50.0%+0.0px", "100.0%x+0.0px" ],
+               "type" : "panel",
+               "visible" : false
+            }
+         }
+      ],
+      "type" : "screen"
+   },
+   "namespace" : "playingGUIScreen",
+   "screen" : {
+      "controls" : [
+         {
+            "panel@playingGUIScreen.weaponButton" : {}
+         }
+      ],
+      "type" : "screen"
+   },
+   "weaponButton" : {
+      "$abilityIcon" : "",
+      "$abilityText" : "",
+      "controls" : [
+         {
+            "backImg" : {
+               "$abilityIcon|default" : "",
+               "clip_direction" : "left",
+               "clip_ratio" : 0.0,
+               "controls" : [
+                  {
+                     "label" : {
+                        "$abilityText|default" : "",
+                        "font_size" : "large",
+                        "font_type" : "default",
+                        "layer" : 1,
+                        "shadow" : true,
+                        "text" : "$abilityText",
+                        "text_alignment" : "center",
+                        "type" : "label"
+                     }
+                  }
+               ],
+               "layer" : 1,
+               "texture" : "$abilityIcon",
+               "type" : "image"
+            }
+         }
+      ],
+      "layer" : 1,
+      "size" : [ 100, 100 ],
+      "type" : "panel"
+   }
+}
